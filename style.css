@@ -9,4 +9,5 @@ img {
 }
 .country:hover {
   filter: brightness(110%);
+  cursor: pointer;
 }
