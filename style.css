@@ -7,3 +7,6 @@ body {
 img {
   width: 100px;
 }
+.country:hover {
+  filter: brightness(110%);
+}
