@@ -91,7 +91,7 @@ circle.highlight{
   stroke: #646464;
 }
 .borderBoth {
-  fill: purple
+  fill: purple;
   stroke: #646464;
 }
 
