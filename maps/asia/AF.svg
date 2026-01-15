@@ -43,7 +43,7 @@ path,circle{
 
 .subject{
    fill: white;
-   stroke: #335033;
+   stroke: #646464;
 }
 
 circle.highlight{
@@ -84,15 +84,15 @@ circle.highlight{
 /* Other */
 .borderLand {
   fill: red;
-  stroke: #335033;
+  stroke: #646464;
 }
 .borderMaritime {
   fill: blue;
-  stroke: #335033;
+  stroke: #646464;
 }
 .borderBoth {
   fill: purple
-  stroke: #335033;
+  stroke: #646464;
 }
 
 /* Colouring a particular country, use '*' with group ID */
